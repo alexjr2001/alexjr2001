@@ -38,10 +38,11 @@
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
+<br/>
 
 ![Alex Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjr2001&show_icons=true&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexjr2001&theme=dark&background=000000)
+<!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexjr2001&theme=dark&background=000000)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjr2001&layout=compact&theme=dark)
 
