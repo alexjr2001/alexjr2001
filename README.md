@@ -29,7 +29,7 @@
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
 
-### Familiar with:
+### ♻️ Familiar with:
 <div>
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
