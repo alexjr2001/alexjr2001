@@ -5,11 +5,12 @@
 <h1 align="center">
   Hi, I'm Alex :wave:
 </h1>
-
 <h2 align="center">
   I'M A DEVELOPER AND A COMPUTER SCIENCE STUDENT :technologist: :computer:
 </h2>
 
+### ❄️ About me
+I'm a current student at San Pablo University in Arequipa, Peru. In the department of Computer Science, my expected graduation is in 2025. I've been working in projects given by the university and personal projects some of them can be saw in this profile, however, I always practice in other personal small projectS in order to find my correct field in CS. At this point, I'd choose to dedicate my coding skills and problem-solving to data science and analytics, in spite of discovering a little bit of Artificial Intelligence and Cybersecurity. Some of my passions outside this world are related to sports and the art of acquiring knowledge of everything. As a person, I've been known my entire life as "such a good person" but just voices, it is not enough for me, I always I want more from me. Ambitious with responsibility, order, humility and respect.
 
 ### :gem: Languages and Tools :
 <div>
