@@ -41,12 +41,17 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 </div>
 <br/>
 
+<div align="center">
+  
 ![Alex Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjr2001&show_icons=true&theme=radical)
+
 
 <!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexjr2001&theme=dark&background=000000)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjr2001&layout=compact&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjr2001&layout=compact&theme=dark)
+  
+</div>
 
 ### ⚡More about me!
 - I would be considered as a polyglot <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236259033-6d1edc53-21b1-4b55-9483-5187c07e51fe.png"> <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236258761-42c6f98b-9b11-48f4-82f4-fda63c6674f4.png">  <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236260006-857b63c9-f07d-41bf-b647-f3b9512ec0fe.png"> <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236260567-b0e560a6-5285-4ddd-a797-2034f3e72e2b.png">
