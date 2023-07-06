@@ -55,7 +55,7 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 </div>
 
 ### ⚡More about me!
-- I would be considered as a polyglot <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236259033-6d1edc53-21b1-4b55-9483-5187c07e51fe.png"> <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236258761-42c6f98b-9b11-48f4-82f4-fda63c6674f4.png">  <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236260006-857b63c9-f07d-41bf-b647-f3b9512ec0fe.png"> <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236260567-b0e560a6-5285-4ddd-a797-2034f3e72e2b.png">
+- I would be considered a POLYGLOT <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236259033-6d1edc53-21b1-4b55-9483-5187c07e51fe.png"> <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236258761-42c6f98b-9b11-48f4-82f4-fda63c6674f4.png">  <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236260006-857b63c9-f07d-41bf-b647-f3b9512ec0fe.png"> <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236260567-b0e560a6-5285-4ddd-a797-2034f3e72e2b.png">
  :love_you_gesture: <img widht=12 height =12 src="https://user-images.githubusercontent.com/63054183/236259782-7660925c-d50b-4ab9-a891-d11d06e7cc62.png">
 
 ```text
