@@ -43,13 +43,14 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 
 <div align="center">
   
-![Alex Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjr2001&show_icons=true&theme=radical)
-
-
-<!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexjr2001&theme=dark&background=000000)-->
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjr2001&layout=compact&theme=dark)
+
+<!--![Alex Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjr2001&show_icons=true&theme=radical)-->
+
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexjr2001&theme=dark&background=000000)
+
   
 </div>
 
