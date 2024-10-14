@@ -23,8 +23,8 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img width= "50" height="30" src="https://i.stack.imgur.com/zHFFO.png">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
@@ -35,6 +35,7 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+<img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
