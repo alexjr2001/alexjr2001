@@ -61,7 +61,7 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 
 ```text
 Spanish     Native                  ████████████████████████▓   99.99 %
-English     Advanced                ██████████████████████▒░░   85.00 %
+English     Advanced                ███████████████████████▒░   95.00 %
 Italian     Advanced                ███████████████████████▒░   95.00 %
 Portuguese  Upper-intermediate      ███████████████████▒░░░░░   80.00 %
 Peruvian Sign Language Intermediate ███████████▒░░░░░░░░░░░░░   50.00 %
