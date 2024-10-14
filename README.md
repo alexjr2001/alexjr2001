@@ -27,7 +27,7 @@ I'm a current student at San Pablo University in Arequipa, Peru. In the departme
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
 <img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-<img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+<img width= "40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
 </div>
 
 ### ♻️ Familiar with:
